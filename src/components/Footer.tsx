@@ -26,7 +26,7 @@ export const Footer: React.FC = () => {
           </div>
 
           <h4 className="text-4xl sm:text-6xl font-bold text-gray-800 mb-6 italic" style={{ fontFamily: "'Dancing Script', cursive" }}>
-            ¡Gracias Por Ser Parte De Mi Historia!
+            ¡Gracias Por Ser Parte De mi historia!
           </h4>
 
           <p className="text-gray-700 text-base sm:text-xl leading-relaxed mb-6 px-4 tracking-wide">
